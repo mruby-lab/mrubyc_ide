@@ -1,5 +1,7 @@
 # mrubyc_ide
 
+- [スライド資料](https://github.com/mruby-lab/mrubyc_ide/raw/main/slide.pdf)
+
 ## mruby/c演習
 
 以下のリンクをクリックすると、mrubyc_ideをダウンロードできます
@@ -16,3 +18,4 @@
 - [ボード上のLEDを点滅させる](sample01.md)
 - [RBoardの情報](https://yoshihiroogura.github.io/RBoardDocument/)
 - [RBoardのピン情報](https://yoshihiroogura.github.io/RBoardDocument/pin.html)
+
