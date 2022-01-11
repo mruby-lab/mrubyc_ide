@@ -11,3 +11,8 @@
 - [Node-RED環境(RBoard対応版)](http://128.199.97.60:1880/)
 - [mruby/cプログラム生成](http://128.199.97.60:4567/)
 
+## 参考
+
+- [ボード上のLEDを点滅させる](sample01.md)
+- [RBoardの情報](https://yoshihiroogura.github.io/RBoardDocument/)
+- [RBoardのピン情報](https://yoshihiroogura.github.io/RBoardDocument/pin.html)
